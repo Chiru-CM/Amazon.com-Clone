@@ -22,7 +22,7 @@
     height: 50px;
     width: 100%;
     background-size: cover;
-    background-image: url(/Amazon-Logo4.jpg);
+    background-image: url(/images/Amazon-Logo4.jpg);
 
 }
 
@@ -157,7 +157,7 @@ a{
 
 main{
     height: 400px;
-    background-image: url(/B1.jpg);
+    background-image: url(/images/B1.jpg);
     background-size:cover;
     display: flex;
     justify-content: center;
